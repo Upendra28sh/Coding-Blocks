@@ -1,0 +1,51 @@
+body
+{
+	background-image:url("Workspace.jpg");
+    	background-repeat: no-repeat;
+	background-size: cover;
+	color:white;
+	text-align:center;
+}
+
+#abc
+{
+	text-align:center;
+}
+
+.btn1
+{
+	float:left;
+}
+
+.btn2
+{
+	float:right;
+}
+
+.btn3
+{
+	float:left;
+}
+
+.btn4
+{
+	float:right;
+}
+
+.epic
+{
+	text-align:left;
+}
+
+
+.mar
+{
+	float:right;
+	margin-top:-170px;
+}
+
+.mar1
+{
+	float:right;
+	margin-top:-80px;
+}

@@ -1,0 +1,19 @@
+body
+{
+	background-image:url("workspace.jpg");
+    	background-repeat: no-repeat;
+    	background-size: cover;
+	text-align:center;
+}
+
+#a1,#a2,#a3
+{
+	font-weight:bold;
+	margin-top:80px;
+}
+
+.me
+{
+	color:white;
+	font-family:Frutiger
+}
